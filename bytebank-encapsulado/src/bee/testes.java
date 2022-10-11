@@ -24,7 +24,7 @@ public class testes {
 			
 		}else {
 			System.out.println("Valores nao aceitos");
-			System.out.println("teste");
+			
 		}
 
 	}
